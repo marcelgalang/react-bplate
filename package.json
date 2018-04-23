@@ -1,0 +1,30 @@
+{
+  "name": "react-bplate",
+  "version": "1.0.0",
+  "description": "Basic React Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelgalang/react-bplate.git"
+  },
+  "keywords": [
+    "Node",
+    "React"
+  ],
+  "author": "Marcel Galang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelgalang/react-bplate/issues"
+  },
+  "homepage": "https://github.com/marcelgalang/react-bplate#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
