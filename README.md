@@ -5,3 +5,5 @@ This is my react-boilerplate
 npm install
 npm run build
 npm start
+```
+Listening on `localhost:8080`
